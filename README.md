@@ -12,9 +12,6 @@ Voici quelques commandes...
 -   **Musique :
     ![Commande PLAY](https://media.discordapp.net/attachments/645648108629524557/792907723455856640/unknown.png?width=512&height=473)
     ![Commande NOWPLAYING](https://media.discordapp.net/attachments/645648108629524557/792908229835358219/unknown.png)**
--   **Commandes NSFW** (ici les images ont été censurées)**:****
-    ![Commande PUSSY](https://media.discordapp.net/attachments/761511424723517465/805127426555904000/1-modif.png)****
-    ![Commande HENTAI](https://media.discordapp.net/attachments/761511424723517465/805127440443506758/2-modif.png)**
 
 **[Invitez-moi !](https://discord.com/oauth2/authorize?client_id=680215834719027230&scope=bot&permissions=2113400319 "Invitation de SYMY")**
 --------------------------------------------------------------------------------------------------------------------------------------------
