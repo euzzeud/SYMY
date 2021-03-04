@@ -4,14 +4,15 @@ SYMY est un bot Discord français, qui contient des commandes de modération, d'
 
 Voici quelques commandes...
 
--   **Préfix modifiable :
+-   **Préfix modifiable :**
     
-![Commande permantant de customiser le préfix](https://media.discordapp.net/attachments/645648108629524557/792906669688356924/unknown.png)**
+![Commande permantant de customiser le préfix](https://media.discordapp.net/attachments/645648108629524557/792906669688356924/unknown.png)
 
--   **Système de niveaux :
+-   **Système de niveaux :**
     
-![Commande RANK](https://media.discordapp.net/attachments/645648108629524557/792905887819628554/unknown.png)**
--   **Musique :
+![Commande RANK](https://media.discordapp.net/attachments/645648108629524557/792905887819628554/unknown.png)
+
+-   **Musique :**
     
 ![Commande PLAY](https://media.discordapp.net/attachments/645648108629524557/792907723455856640/unknown.png?width=512&height=473)
     
