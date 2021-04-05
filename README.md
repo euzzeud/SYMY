@@ -24,5 +24,9 @@ Voici quelques commandes...
 [**Serveur de support**](https://discord.gg/4faGw95aGp "Serveur Discord de support")
 ------------------------------------------------------------------------------------
 
+<a href="https://status.watchbot.app/bot/680215834719027230">
+  <img src="https://api.watchbot.app/bot/680215834719027230/widget?theme=dark" alt="SYMY#0546" />
+</a>
+
 **⚠️ Attention !**
 *SYMY est en constante évolution, si vous rencontrez des erreurs ou un bug, rendez-vous sur notre support pour que nos développeurs puissent résoudre le problème.*
